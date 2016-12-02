@@ -1,0 +1,10 @@
+.settings
+.worksheet
+.cache-tests
+.classpath
+.project
+assignment.sbt
+build.sbt
+bin
+project
+target
